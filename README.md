@@ -1,21 +1,3 @@
-# \## Contribution by Nandini
-
-# 
-
-# This update improves the project documentation by:
-
-# 
-
-# \- Adding a clear contribution section
-
-# \- Demonstrating the GitHub fork and pull request workflow
-
-# \- Improving readability of the README file
-
-# 
-
-# \### Workflow Followed
-
 # 1\. Forked the repository
 
 # 2\. Created a new branch
